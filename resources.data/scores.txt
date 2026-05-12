@@ -1,1 +1,8 @@
-6
+updated time : 2026-05-12T23:11:15.151500
+resources.data/incoming/score_2.txt: 2
+updated time : 2026-05-12T23:11:15.156110
+resources.data/incoming/score_1.txt: 3
+updated time : 2026-05-12T23:11:29.170415
+resources.data/incoming/score_1.txt: 1
+updated time : 2026-05-12T23:11:43.171102
+resources.data/incoming/score_1.txt: 1
